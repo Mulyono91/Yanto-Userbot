@@ -1,6 +1,6 @@
-# Bdrl-Userbot Telegram
+# Mulyono-Userbot Telegram
 
-Bdrl-Userbot is an telegram userbot running with Python3 and using Pyrogram Library.
+Mulyono-Userbot is an telegram userbot running with Python3 and using Pyrogram Library.
 
 This repository created to helping you in telegram like managing a group or just for fun.
 
